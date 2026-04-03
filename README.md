@@ -119,14 +119,6 @@ AI Researcher specializing in **Machine Learning, Generative AI, and Natural Lan
 
 ---
 
-## 🎓 Education
-
-- 🎓 **B.Sc (Hons) Information Technology** – SLIIT  
-- 🎓 **B.Sc in Electronics** – University of Colombo  
-- 🎓 **Higher Diploma in IT** – SLIIT  
-
----
-
 ## 🌍 Professional Memberships
 
 - IAENG – International Association of Engineers  
